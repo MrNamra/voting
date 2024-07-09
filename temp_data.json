@@ -1,0 +1,15 @@
+{
+    "name": "Namo",
+    "party": "BJP",
+    "age": 71,
+    "votes": [
+        {
+            "user": "611f7132ee8f3e00If4e4ef6",
+            "votedAt": "2024-07-08T08:00"
+        },
+        {
+            "user": "611f7144ee8f3eø01f4e4ef8",
+            "votedAt": "2024-07-08T08:00"
+        }
+    ]
+}
